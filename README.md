@@ -1,7 +1,7 @@
 # B-AIA-500-REN-5-1-gomoku
 
-Mark: 72%
 Grade: **C**
+Mark: 72%
 
 The goal of this project is to implement a Gomoku Narabe game bot (also called Wuzi Qi, Slope, Darpion or
 Five in a Row), focusing on the performance of its artificial intelligence.
